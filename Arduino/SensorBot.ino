@@ -12,7 +12,7 @@
 //  GNU General Public License for more details.
 //
 //  You should have received a copy of the GNU General Public License
-//  along with Webdome.  If not, see <http://www.gnu.org/licenses/>.
+//  along with Sensorbot.  If not, see <http://www.gnu.org/licenses/>.
 
 int waterSensor = A0; 
 int tempSensor = A1;
